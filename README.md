@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, Mitha here 👩🏻‍💻
+Currently active in iOS apps development using Swift
+
+### Let's connect
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/paramithatm/)
+
 
 <!--
 **paramithatm/paramithatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
